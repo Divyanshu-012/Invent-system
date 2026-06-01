@@ -15,4 +15,4 @@ jobs:
         with:
           context: ./inventory-system/backend
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/invent-system-backend:latest
+          tags: divyanshuu/invent-system-backend:latest
